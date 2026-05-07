@@ -1,0 +1,25 @@
+{
+  "name": "four-card-feature-section-master",
+  "version": "1.0.0",
+  "description": "Four Card Feature Section - Challenge Frontend Mentor. Intégration d'une section présentant quatre cartes de fonctionnalités responsive. Réalisée avec HTML5 et SCSS. Apprentissage : mise en page complexe, responsive design et organisation du code avec SASS.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "sass": "sass --watch sass/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas-Bezille/FrontEnd-Mentor_Four_card_feature_section.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas-Bezille/FrontEnd-Mentor_Four_card_feature_section/issues"
+  },
+  "homepage": "https://github.com/Thomas-Bezille/FrontEnd-Mentor_Four_card_feature_section#readme",
+  "dependencies": {
+    "sass": "^1.99.0"
+  }
+}
